@@ -1,5 +1,5 @@
 
-# Task 1: Data Cleaning & Preprocessing (Titanic Datset)
+# Task 1: Data Cleaning & Preprocessing (Titanic Dataset)
 
 ## Objective
 To clean and prepare the Titanic dataset for machine learning using Python.
